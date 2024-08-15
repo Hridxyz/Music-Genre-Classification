@@ -20,8 +20,8 @@ To run this project locally, follow these steps:
 
 1. **Clone the repository**:
     ```bash
-    git clone https://github.com/YourUsername/MusicGenreClassification.git
-    cd MusicGenreClassification
+    git clone https://github.com/hridxyz/Music-Genre-Classification.git
+    cd Music-Genre-Classification
     ```
 
 2. **Install required dependencies**:
@@ -56,12 +56,3 @@ The model was trained on a large dataset of labeled music tracks and tested with
 ## Contributing
 Contributions are welcome! If you'd like to improve the project, feel free to fork the repository and submit a pull request.
 
-## License
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
-## Contact
-For any inquiries, feel free to reach out at your.email@example.com.
-
----
-
-**GitHub Repository**: [Music Genre Classification](https://github.com/YourUsername/MusicGenreClassification)
